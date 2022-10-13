@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbdessamadSb/music-player/static/css/main.ac6a5abb.css",
+    "main.js": "/AbdessamadSb/music-player/static/js/main.14e5b0bd.js",
+    "index.html": "/AbdessamadSb/music-player/index.html",
+    "main.ac6a5abb.css.map": "/AbdessamadSb/music-player/static/css/main.ac6a5abb.css.map",
+    "main.14e5b0bd.js.map": "/AbdessamadSb/music-player/static/js/main.14e5b0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac6a5abb.css",
+    "static/js/main.14e5b0bd.js"
+  ]
+}
