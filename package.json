@@ -2,7 +2,7 @@
   "name": "music-player",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abdessamadsb.github.io/music-player",
+  "homepage": "http://AbdessamadSb.github.io/music-player",
   "dependencies": {
     "-": "^0.0.1",
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
